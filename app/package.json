@@ -1,11 +1,10 @@
 {
-  "name": "angular-electron",
-  "description": "Angular Electron sample",
+  "name": "localization-tool",
+  "description": "Batch Mobile localization tool for Rockwell Automation",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Batch Mobility Team"
   },
-  "version": "13.0.0",
+  "version": "1.0.0",
   "main": "main.js",
   "private": true,
   "dependencies": {
